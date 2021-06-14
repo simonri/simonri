@@ -1,7 +1,3 @@
-<h1 align="center">Hi 👋, I'm Simon</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simonri&label=Profile%20views&color=0e75b6&style=flat" alt="simonri" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simonri&theme=onedark&margin-w=15&margin-h=15&column=7" alt="willdoescode" /></a> </p>
 
 <div align="center">
